@@ -16,6 +16,10 @@ for further processing and visualization. (see [NTRIP-Server](https://github.com
 
 > Note: On both ends a [CubePilot](https://www.cubepilot.com/) GNSS is used, one `here3` and one `here3+` both use the u-blox high precision GNSS module `M8P-2`
 
+## Demo
+
+[<img src="https://img.youtube.com/vi/zCbPBmnboW4/maxresdefault.jpg" width="100%">](https://youtu.be/zCbPBmnboW4)
+
 ## Architecture
 
 ```mermaid
