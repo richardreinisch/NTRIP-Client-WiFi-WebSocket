@@ -1,0 +1,4 @@
+websocket-client==1.8.0
+pyserial==3.5
+pynmeagps==1.0.44
+pyrtcm==1.1.4
